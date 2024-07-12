@@ -6,4 +6,4 @@ Steps:- * Prepare CSV File.
         * Create Tables In SQL.
         * Import CSV File Into SQL.
         * Data Processing And DAX Queries.
-        * Dashboard & Insights
+        * Dashboard & Insights.
